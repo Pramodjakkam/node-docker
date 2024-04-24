@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "oh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "build":"echo 'Running build script'"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
